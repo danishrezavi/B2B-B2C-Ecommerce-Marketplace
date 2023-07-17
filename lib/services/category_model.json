@@ -1,0 +1,132 @@
+{
+    "categories": [
+        {
+            "name": "Rugs",
+            "subcategory": [
+                "Area Rugs",
+                "Outdoor Rugs",
+                "Bath Mats",
+                "Kids Rugs",
+                "Rug Pads"
+            ]
+        },
+        {
+            "name": "Lighting",
+            "subcategory": [
+                "Flush Lighting",
+                "Sconces",
+                "Chandeliers",
+                "Pendants",
+                "Table Lamps"
+            ]
+        },
+        {
+            "name": "Couture",
+            "subcategory": [
+                "Bedroom",
+                "Dining",
+                "Living Room",
+                "Office",
+                "Outdoor",
+                "Mirrors"
+            ]
+        },
+        {
+            "name": "Living Room",
+            "subcategory": [
+                "Accent Chairs",
+                "Accent Tables",
+                "Benches",
+                "Chaises",
+                "Chests & Storage",
+                "Coffee Tables",
+                "Console Tables",
+                "Etageres",
+                "Loveseats & Settees"
+            ]
+        },
+        {
+            "name": "Dining",
+            "subcategory": [
+                "Carts",
+                "Stools",
+                "Counter Stools",
+                "Dining Chairs",
+                "Kitchen Carts",
+                "Dining Sets",
+                "Sideboards",
+                "Tables"
+            ]
+        },
+        {
+            "name": "Bed & Bath",
+            "subcategory": [
+                "Beds",
+                "Dressers",
+                "Nightstands",
+                "Headboards",
+                "Ottomans",
+                "Vanity Stools",
+                "Chaises",
+                "Mattresses",
+                "Bath Lighting",
+                "Bathmats",
+                "Solea Bath",
+                "Towel Hangers",
+                "Bath Towels",
+                "Storage & Hampers",
+                "Bath Accessories"
+            ]
+        },
+        {
+            "name": "Office",
+            "subcategory": [
+                "Desks",
+                "Desk Chairs",
+                "Bookcases",
+                "Office Lighting"
+            ]
+        },
+        {
+            "name": "Decor",
+            "subcategory": [
+                "Candle Accents",
+                "Clocks",
+                "Pillows",
+                "Curtains",
+                "Curtain Hardware",
+                "Garden Stools",
+                "Throws",
+                "Floor Pillows",
+                "Fireplace Accents",
+                "Mirrors"
+            ]
+        },
+        {
+            "name": "Outdoor",
+            "subcategory": [
+                "Chaise Loungers",
+                "Dining Tables",
+                "Patio Bars & Carts",
+                "Seating",
+                "Umbrellas",
+                "Outdoor Lighting",
+                "Patio Heaters"
+            ]
+        },
+        {
+            "name": "Kids & Pets",
+            "subcategory": [
+                "Disney Frozen 2",
+                "Disney Aladdin",
+                "Pillows & Throws",
+                "Vanity Stools",
+                "Chairs",
+                "Lighting",
+                "Garden Stools",
+                "Storage",
+                "Pet Beds"
+            ]
+        }
+    ]
+}
